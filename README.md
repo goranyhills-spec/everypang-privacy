@@ -1,4 +1,4 @@
-#Privacy Policy for Everypang
+# Privacy Policy for Everypang
 
 [GoranyHills, hereinafter "Developer"] built the Everypang app as a Free/Ad-supported app. This SERVICE is provided by Developer at no cost and is intended for use as is.
 
@@ -31,7 +31,7 @@ Effective date: 2026-11-25
 
 
 
-#에브리팡 개인정보 처리방침
+# 에브리팡 개인정보 처리방침
 
 [GoranyHills, 이하 '개발자']은(는) 구글 플레이스토어에 출시하는 에브리팡 앱과 관련하여, 유저의 개인정보 보호를 매우 중요하게 생각하며 관련 법령을 준수하고 있습니다. 본 개인정보 처리방침은 앱 이용 시 수집되는 정보와 그 처리 방법에 대해 안내합니다.
 
@@ -62,7 +62,8 @@ Effective date: 2026-11-25
 시행일자: 2026년 11월 30일
 
 
-#Everypang プライバシーポリシー
+
+# Everypang プライバシーポリシー
 
 GoranyHills（以下「開発者」といいます）は、無料・広告表示型アプリとして「Everypang」を開発しました。本サービスは開発者により無料で提供されており、現状のまま使用されることを意図しています。
 
